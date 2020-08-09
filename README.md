@@ -1,16 +1,9 @@
-# api_stuff
+# Hi! Welcome to HCCF's Github Repo. Our code for ScrapstoDishes resides here.
 
-A new Flutter project.
+Our application is developed with Flutter. Coded with the Dart language, ScrapstoDishes is deployable on both **Android and iOS**. 
 
-## Getting Started
+In Dart, we program within the **lib** folder. Open it, and **main.dart** is where our software resides. 
 
-This project is a starting point for a Flutter application.
+Thanks! 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Kevin Riady, Paul Song, and Jonas Yeung.
