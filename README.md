@@ -6,4 +6,4 @@ In Dart, we program within the **lib** folder. Open it, and **main.dart** is whe
 
 Thanks! 
 
-- Kevin Riady, Paul Song, and Jonas Yeung.
+Kevin Riady, Paul Song, and Jonas Yeung.
