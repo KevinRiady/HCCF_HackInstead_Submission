@@ -1,4 +1,4 @@
-# Hi! Welcome to HCCF's Github Repo. Our code for ScrapstoDishes resides here.
+# Welcome to HCCF's Github Repo. Our code for ScrapstoDishes resides here.
 
 Our application is developed with Flutter. Coded with the Dart language, ScrapstoDishes is deployable on both **Android and iOS**. 
 
